@@ -1,0 +1,8 @@
+name: SurvivalGames
+version: 1.0
+main: com.ryan.survivalgames.SurvivalGames
+api-version: 1.19
+commands:
+  sg:
+    description: Used to start, join, or leave a Survival Games game
+    usage: /sg <start [world]/join/leave>
